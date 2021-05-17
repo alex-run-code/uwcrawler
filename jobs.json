@@ -1,0 +1,102 @@
+[
+    {
+        "tite": "Photoshop expert needed to edit graphs",
+        "infos": "Fixed-price - Intermediate - Est. Budget: $7 - Posted 6 minutes ago",
+        "description": "Hello I need an expert with experience editing graphs for a simple but urgent job : 1. Attachment page-001 : make all graphs with exact same gridlines but change from 0 to 4000 (instead of 0 to 300 or 400). IMPORTANT keep the same height for histog ... more",
+        "skills": "None",
+        "proposals": "Proposals: Less than 5",
+        "payment_verified": false,
+        "amount": "$10k+ spent",
+        "location": "France"
+    },
+    {
+        "tite": "Convert a Laravel app to a Python API",
+        "infos": "Fixed-price - Expert - Est. Budget: $200 - Posted 42 minutes ago",
+        "description": "For the API i want to use Django rest framework but any Python framework will work. The features of the API needs to match the features of Laraclassified Laravel app found on codecanyon. I don't want the app to be built from scratch but rather we c ... more",
+        "skills": "Django\nRESTful API\nPython",
+        "proposals": "Proposals: Less than 5",
+        "payment_verified": false,
+        "amount": "$200 spent",
+        "location": "Romania"
+    },
+    {
+        "tite": "Canva Template for Product Specification",
+        "infos": "Hourly - Expert - Est. Time: Less than 1 month, Less than 30 hrs/week - Posted 48 minutes ago",
+        "description": "We are using legacy desktop publishing software to create pdf product specification sheets and want to be able to crate new specification sheets in Canva. We want to duplicate our legacy format at much as possible. See attached spec sheet",
+        "skills": "Brochure\nCatalog\nCanva",
+        "proposals": "Proposals: 10 to 15",
+        "payment_verified": false,
+        "amount": "$7k+ spent",
+        "location": "United Arab Emirates"
+    },
+    {
+        "tite": "Replicate changes in 17 files, looking at the changes from master file.",
+        "infos": "Fixed-price - Entry level - Est. Budget: $10 - Posted 2 hours ago",
+        "description": "We have made changes in 1 file (we will provide the old and new file); study the difference, and make similar changes in 17 such PHP files.",
+        "skills": "Web Application\nCakePHP\nPHP\nVery Small (1-9 employees)\nHTML",
+        "proposals": "Proposals: Less than 5",
+        "payment_verified": false,
+        "amount": "$2k+ spent",
+        "location": "India"
+    },
+    {
+        "tite": "Game Designer or Consultant for Education Game",
+        "infos": "Hourly: $30.00-$70.00 - Intermediate - Est. Time: Less than 1 month, Less than 30 hrs/week - Posted 6 hours ago",
+        "description": "I am looking to design a game for 9 to 12 year old school children to teach conservation and be addictive while delivering on zoom. We are expecting 9 children and having groups of 2-3 who would be given each project and asked to solve it using the s ... more",
+        "skills": "Game Design Document\nEducation",
+        "proposals": "Proposals: Less than 5",
+        "payment_verified": false,
+        "amount": "$300+ spent",
+        "location": "Australia"
+    },
+    {
+        "tite": "complete implementation of the OCPP 1.6 and OCPP 2.0 protocols.",
+        "infos": "Hourly - Expert - Est. Time: 1 to 3 months, Less than 30 hrs/week - Posted 8 hours ago",
+        "description": "We\u2019re looking for complete implementation of all certification required protocols for both OCPP 1.6 and 2.0 in a language of choice with complete tests.",
+        "skills": "None",
+        "proposals": "Proposals: Less than 5",
+        "payment_verified": false,
+        "amount": "$0 spent",
+        "location": "India"
+    },
+    {
+        "tite": "I want Smart Resume Builder and Job Predictions System in Python",
+        "infos": "Hourly - Intermediate - Est. Time: Less than 1 month, Less than 30 hrs/week - Posted 16 hours ago",
+        "description": "I want Smart Resume Builder and Job Predictions System in Python which create/upload CV and parse it. Then show the final recommendation to the user by applying hybrid model (CBF and CF).",
+        "skills": "React Native\nReact\nDjango\nFlask\nREST\nAPI\nResponsive Web Design",
+        "proposals": "Proposals: 5 to 10",
+        "payment_verified": false,
+        "amount": "$0 spent",
+        "location": "Pakistan"
+    },
+    {
+        "tite": "Aviation training vr",
+        "infos": "Fixed-price - Intermediate - Est. Budget: $20,000 - Posted 17 hours ago",
+        "description": "Develop vr application for training related to aerospace sector. Must be able to interact with air raft and environment and simulate normal and abnormal l situations relating to cabin safety",
+        "skills": "3D Modeling\n3D Animation\nGraphic Design\nVirtual Reality\nVR Application",
+        "proposals": "Proposals: 5 to 10",
+        "payment_verified": false,
+        "amount": "$0 spent",
+        "location": "Japan"
+    },
+    {
+        "tite": "Economics Of Inequality And Inclusive Growth",
+        "infos": "Fixed-price - Intermediate - Est. Budget: $250 - Posted 17 hours ago",
+        "description": "An economic-based detailed report that is approximately 10 pages. The report should answer the below question. 1. What factors have been most important in influencing trends in household income inequality in the UK during the past few decades? 2.H ... more",
+        "skills": "Economics\nAcademic Writing\nResearch\nAcademic Research",
+        "proposals": "Proposals: 15 to 20",
+        "payment_verified": false,
+        "amount": "$0 spent",
+        "location": "Oman"
+    },
+    {
+        "tite": "Pamphlet Creator [InDesign or Illustrator]",
+        "infos": "Hourly - Intermediate - Est. Time: Less than 1 month, Less than 30 hrs/week - Posted 17 hours ago",
+        "description": "We are creating a mini guide for an exam that will be put on 6 a4 pages front and back. Each subject of the exam will have its own page. The purpose of the guide is to provide a condensed down view of the most important bits to the exam. We have the ... more",
+        "skills": "Infographics",
+        "proposals": "Proposals: 10 to 15",
+        "payment_verified": false,
+        "amount": "$10k+ spent",
+        "location": "United Kingdom"
+    }
+]
